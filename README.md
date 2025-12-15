@@ -38,26 +38,44 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
-Truth Table for Full adder: 
+Truth Table for Full adder:
+
 A   B   C   Sum Carry 
+
 0   0   0   0   0 
+
 0   0   1   1   0 
+
 0   1   0   1   0 
+
 0   1   1   0   1 
+
 1   0   0   1   0 
+
 1   0   1   0   1 
+
 1   1   0   0   1 
+
 1   1   1   1   1 
 
 Truth Table for Full subractor: 
+
 A   B   B  Diff Bout 
-0   0   0   0   0 
+
+0   0   0   0   0
+
 0   0   1   1   1 
+
 0   1   0   1   1 
+
 0   1   1   0   1 
+
 1   0   0   1   0 
+
 1   0   1   0   0 
-1   1   0   0   0 
+
+1   1   0   0   0
+
 1   1   1   1   1
 
 **Procedure**
